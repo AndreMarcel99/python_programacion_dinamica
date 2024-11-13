@@ -1,8 +1,8 @@
 def main():
 
     n = 10
-    w = [85, 26, 48, 21, 22, 95, 43, 45, 55, 52]
-    v = [79, 32, 47, 18, 26, 85, 33, 40, 45, 59]
+    w = [] # Se esperan n pesos
+    v = [] # Se esperan n valores
     W = 140
 
     V = [[0 for column in range(0, W + 1)]    for row in range(0, n + 1)]
