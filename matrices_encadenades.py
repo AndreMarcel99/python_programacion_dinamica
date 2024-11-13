@@ -9,7 +9,7 @@ def print_optimal_parenthesis(s, i, j):
 
 def main():
 
-    p = [5,10,3,12,5,50,6]
+    p = [] # Cualquier cadena
 
     n = len(p) - 1
 
