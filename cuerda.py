@@ -2,7 +2,7 @@ def main():
 
     length = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
 
-    price = [1, 4, 10, 12, 15, 20, 21, 32, 31, 41, 51]
+    price = [] #Menos uno de la longitud de la cuerda
 
     results = [0 for i in range(len(length))]
 
